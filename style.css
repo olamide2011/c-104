@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+    color: cornsilk;
+}
+
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+#camera, #result{
+    border: 2px white;
+    width: 350px;
+    height: 350px;
+}
